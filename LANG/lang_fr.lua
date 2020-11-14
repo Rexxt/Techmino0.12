@@ -551,6 +551,7 @@ return{
 		},
 		AtoZ={
 			-- level="Level",
+			-- keyboard="Keyboard",
 			reset="Redémarrer",
 		},
 		help={
